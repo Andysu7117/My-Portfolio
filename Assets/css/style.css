@@ -115,13 +115,13 @@ table {
 
 th {
     width: 20%;
-    padding: 2rem 0;
+    padding-right: 1rem;
     vertical-align: text-top;
 }
 
 td {
     border-left: 0.5rem solid var(--darkerblue);
-    padding: 0;
+    padding-left: 2rem;
 }
 
 /* Making tables Flex */
@@ -143,6 +143,28 @@ td {
 .resume {
     display: flex;
     flex-wrap: wrap;
+}
+
+.card-column {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+.card-body {
+    flex: 1 0 0;
+}
+
+
+/* resizing images for projects */
+.card-column img {
+    max-width: 40%;
+    height: auto;
+}
+
+#first-project {
+    min-width: 100%;
+    height: auto;
 }
 
 .align-left {
