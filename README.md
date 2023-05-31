@@ -6,9 +6,6 @@ This project is a portfolio of my work using all the concepts I have learnt so f
 
 ## Project Installation
 The project can be found on this webpage: https://andysu7117.github.io/My-Portfolio/#
-The project should look like this screenshot:
-![Alt text](Assets\images\webpage.jpg)
-image.png
 
 ## How to use
 The main function is to just have a look at the projects I have completed so far. You can click on the images to go to the project's webpage.
